@@ -1,0 +1,76 @@
+.body {
+  background-image: url(./img/фон.jpg);
+  font-style: initial;
+}
+
+.main_me1 {
+  text-align: center;
+}
+
+.main_me2 {
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid rgb(84, 50, 138)
+}
+
+.head {
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  background-color: rgb(202, 203, 214);
+  border-radius: 60%;
+  padding: 20px;
+  margin: 40px;
+}
+
+.main {
+  background-image: url(./img/фон\ 3.jpg);
+  margin: 50px;
+}
+
+.about {
+  font-size: 30px;
+  font-style: oblique;
+  margin-bottom: 100px;
+}
+
+.sova {
+  width: 70px;
+  border-radius: 50%;
+}
+
+.predis {
+  text-align: center;
+  font-size: 30px;
+}
+
+.table {
+  border: 3px solid;
+  text-align: center;
+  font-size: 30px;
+}
+
+.spb {
+  width: 500px;
+  height: 500px;
+}
+
+.cheget {
+  width: 500px;
+}
+
+.moto {
+  width: 700px;
+}
+
+.monopol {
+  width: 500px;
+}
+
+.obo {
+  width: 500px;
+}
+
+.eco {
+  width: 535px;
+}
